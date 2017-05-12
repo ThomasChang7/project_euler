@@ -19,6 +19,7 @@ def largest_prime(n)
   end
   return largest
 end
-puts largest_prime(600851475143)
+
+largest_prime(600851475143)
 
 # Answer: 6857

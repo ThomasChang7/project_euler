@@ -20,6 +20,6 @@ def fibonacci(x)
   total
 end
 
-puts fibonacci(4000000)
+fibonacci(4000000)
 
 # Answer: 4613732
